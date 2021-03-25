@@ -1,2 +1,1 @@
-# xml
-xml cheat sheet
+# [XML Cheat Sheet](https://github.com/potatoscript/xml/wiki)
